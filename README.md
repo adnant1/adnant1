@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Adnan Tayib]!
+# 👋 Hi, I'm Adnan Tayib!
 
 I'm a **Computer Science student at The Ohio State University** passionate about **software engineering, backend development, and AI engineering**. I aim to build software that is efficient, reliable, and leverages AI in practical ways to solve real problems.
 
