@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Adnan Tayib!
 
-I'm a **Computer Science student at The Ohio State University** passionate about **software engineering, backend development, and AI engineering**. I aim to build software that is efficient, reliable, and leverages AI in practical ways to solve real problems.
+I'm a **Computer Science student at The Ohio State University** passionate about **backend development, distributed systems, and AI engineering**. I aim to build software that is efficient, reliable, and leverages AI in practical ways to solve real problems.
 
 ---
 
 ## 🌱 Currently Learning
 
 - Strengthening **problem-solving** through LeetCode
-- Deepening understanding of **AI engineering and system integration**
+- Building strong foundations in **distributed systems and backend scalability**
 - Exploring how to **build and integrate AI solutions** within backend systems and real-world applications
-- Learning how to increase productivity through **AI tools and autonomous workflows**
+- Learning how to increase productivity through **AI tools**
 
 ---
 
