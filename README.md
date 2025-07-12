@@ -15,8 +15,8 @@ I'm a **Computer Science student at The Ohio State University** interested in **
 
 ## 💻 Featured Projects
 
+- [**Distributed Key-Value Store**](https://github.com/adnant1/Distributed-Key-Value-Store) – DynamoDB inspired Key-Value store.
 - [**TrackVision**](https://github.com/adnant1/TrackVision) – Formula 1 driver performance analytics and predictions with Jolpica F1 API, scikit-learn, and interactive visualizations.
-- [**TickrAlert**](https://github.com/adnant1/TickrAlert) – Sends real-time email alerts when stock price thresholds are crossed using Spring Boot and AWS services.
 
 ---
 
