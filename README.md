@@ -8,8 +8,8 @@ I'm a **Computer Science student at The Ohio State University** interested in **
 
 - Strengthening **problem-solving** through LeetCode
 - Building strong foundations in **distributed systems and backend scalability**
-- Exploring how to **build and integrate AI solutions** within backend systems and real-world applications
-- Learning how to increase productivity through **AI tools**
+- Deepening understanding of **database internals** by exploring key features like indexing, replication, etc. within distributed architectures
+- Exploring how to build and integrate **AI solutions** within backend systems and real-world applications
 
 ---
 
