@@ -4,7 +4,7 @@ I'm a **Computer Science student at The Ohio State University** interested in **
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
 - Strengthening **problem-solving** through LeetCode
 - Building strong foundations in **distributed systems and backend scalability**
