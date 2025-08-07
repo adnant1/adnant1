@@ -7,12 +7,10 @@ I'm a **Computer Science student at The Ohio State University** interested in **
 ## 🌱 Currently Working On
 
 - Strengthening **problem-solving** through LeetCode
-- Building strong foundations in **distributed systems and backend scalability**
-- Deepening understanding of **database internals** by exploring key features like indexing, replication, etc. within distributed architectures
-- Exploring how to build and integrate **AI solutions** within backend systems and real-world applications
-
+- Building strong foundations in **backend development, distributed systems, and infrastructure engineering**
+- Learning how to apply backend and infrastructure principles to support **large-scale AI applications**
+  
 ---
-
 ## 💻 Featured Projects
 
 - [**Distributed Vector Store**](https://github.com/adnant1/Distributed-Vector-Store) – A distributed vector database that uses consistent hashing and replication to store and search OpenAI-embedded text vectors across multiple nodes.
