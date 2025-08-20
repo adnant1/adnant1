@@ -1,16 +1,9 @@
-# 👋 Hi, I'm Adnan Tayib!
+# Hi, I'm Adnan Tayib!
 
 I'm a **Computer Science student at The Ohio State University** interested in **backend development and AI engineering**. I aim to build efficient, reliable systems that power large scale AI applications to solve real-world problems.
-
----
-
-## 🌱 Currently Working On
-
-- Strengthening **problem-solving** through LeetCode
-- Building strong foundations in **backend development, distributed systems, and infrastructure engineering**
-- Learning how to apply backend and infrastructure principles to support **large-scale AI applications**
   
 ---
+
 ## 💻 Featured Projects
 
 - [**StreamCache**](https://github.com/adnant1/streamcache) – A high-performance, log-backed, TTL-aware in-memory caching engine for real-time and analytical workloads.
