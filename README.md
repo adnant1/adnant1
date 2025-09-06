@@ -6,7 +6,7 @@ I'm a **Computer Science student at The Ohio State University** primarily focuse
 
 ## 💻 Featured Projects
 
-- [**StreamCache**](https://github.com/adnant1/streamcache) – A high-performance, log-backed, TTL-aware in-memory caching engine for real-time and analytical workloads.
+- [**StreamCache**](https://github.com/adnant1/streamcache) – A high-performance, log-backed, TTL-aware hybrid in-memory cache and streaming log engine for real-time and analytical workloads.
 - [**Distributed Vector Store**](https://github.com/adnant1/Distributed-Vector-Store) – A distributed vector database that uses consistent hashing and replication to store and search OpenAI-embedded text vectors across multiple nodes.
 - [**TrackVision**](https://github.com/adnant1/TrackVision) – Formula 1 driver performance analytics and predictions with Jolpica F1 API, scikit-learn, and interactive visualizations.
 - [**TickrAlert**](https://github.com/adnant1/TickrAlert) - A real-time stock alert system that emails users when their target price conditions are met using live data and AWS services.
